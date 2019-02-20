@@ -297,7 +297,7 @@ msgstr "36"
 #. <a class="sc" id="sc36.1"></a>
 #. <span class="evam">
 msgctxt "an2.32-41:36.1.1"
-msgid "Evaṃ me sutaṃ—​"
+msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard."
 
 #. </span>
@@ -645,7 +645,7 @@ msgstr "37"
 #. <a class="sc" id="sc37.1"></a>
 #. <span class="evam">
 msgctxt "an2.32-41:37.1.1"
-msgid "Evaṃ me sutaṃ—​"
+msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard."
 
 # Two completely different locations given. I have adopted the better attested one against the text.

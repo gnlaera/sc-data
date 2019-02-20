@@ -18,7 +18,7 @@ msgstr "Sakka’s Questions"
 #. <a class="sc" id="sc1"></a>
 #. <span class="evam">
 msgctxt "dn21:1.1.1"
-msgid "Evaṃ me sutaṃ—​"
+msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard."
 
 # Comm says the sala = sal tree. RD dismisses the Sanskritization as śaila. Note, however, that the subsequent publication of Skt fragments by Waldschmidt confirms this reading: chailaguhāyām at https://suttacentral.net/skt/sf241.
